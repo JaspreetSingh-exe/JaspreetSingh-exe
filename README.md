@@ -12,7 +12,7 @@ I am a **Software Engineer** with expertise in Machine Learning/AI, **Android De
 `Logistic Regression` `Support Vector Machines (SVM)` `Decision Trees` `Random Forest` `Gradient Boosting` `K-Nearest Neighbors (KNN)` `Naive Bayes` `XGBoost`
 
 ### 🧠 Deep Learning
-`Convolutional Neural Networks (CNN)` `Recurrent Neural Networks (RNN)` `Long Short-Term Memory (LSTM)` `YOLO (You Only Look Once)` `MobileNet-V2` `VGG-16` `ResNet` `Transformers` `GANs (Generative Adversarial Networks)`
+`Convolutional Neural Networks (CNN)` `Recurrent Neural Networks (RNN)` `Long Short-Term Memory (LSTM)` `Mobile-Vit` `YOLO (You Only Look Once)` `MobileNet-V2` `VGG-16` `ResNet` `Transformers` `GANs (Generative Adversarial Networks)`
 
 ### 📝 Natural Language Processing (NLP)
 `LSTMs` `TF-IDF` `BERT` `Word2Vec` `GPT Models` `Named Entity Recognition (NER)` `Sentiment Analysis` `Text Summarization`
