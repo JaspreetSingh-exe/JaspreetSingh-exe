@@ -18,7 +18,7 @@ I am a **Software Engineer** with expertise in Machine Learning/AI, **Android De
 `LSTMs` `TF-IDF` `BERT` `Word2Vec` `GPT Models` `Named Entity Recognition (NER)` `Sentiment Analysis` `Text Summarization`
 
 ### 🔥 Large Language Models (LLMs)
-`GPT-3` `GPT-4` `T5 (Text-to-Text Transfer Transformer)` `BART (Bidirectional and Auto-Regressive Transformers)` `LLaMA` 
+`GPT-3` `GPT-3.5 Turbo` `GPT-4` `T5 (Text-to-Text Transfer Transformer)` `BART (Bidirectional and Auto-Regressive Transformers)` `LLaMA` 
 
 ### 🏢 Frameworks
 `TensorFlow` `PyTorch` `Keras` `Scikit-Learn` `Hugging Face Transformers` `FastAPI`
