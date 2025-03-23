@@ -2,7 +2,7 @@
 `"Engineer by profession, Researcher by passion"`
 
 ## 🚀 About Me
-I am a **Software Engineer** with expertise in Machine Learning/AI, **Android Development (Kotlin), and Research**. Passionate about building impactful applications, developing intelligent models, and exploring the latest advancements in AI.
+I am a **Software Engineer** with expertise in Machine Learning/AI, **Android Development (Kotlin), and Research**. Passionate about building impactful applications, developing intelligent models, and exploring the latest advancements in Artificial Intelligence.
 
 ## 💻 Tech Stack
 ### 🖥️ Programming Languages
